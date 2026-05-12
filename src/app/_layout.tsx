@@ -8,13 +8,10 @@ export default function Layout() {
       source={require('../../assets/fondo.png')}
       resizeMode="cover"
       style={{ flex: 1 }}>
-      <Stack
-        screenOptions={{
-          contentStyle: {
-            backgroundColor: 'transparent',
-          },
-        }}
-      />
+      <Stack>
+        <Stack.Screen name ="(tabs)" options={{headerShown: false}}/>
+      </Stack>
+
     </ImageBackground>
   );
 }
