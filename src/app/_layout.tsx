@@ -4,14 +4,8 @@ import { ImageBackground } from "react-native";
 
 export default function Layout() {
   return (
-    <ImageBackground
-      source={require('../../assets/fondo.png')}
-      resizeMode="cover"
-      style={{ flex: 1 }}>
       <Stack>
         <Stack.Screen name ="(tabs)" options={{headerShown: false}}/>
       </Stack>
-
-    </ImageBackground>
   );
 }
