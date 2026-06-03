@@ -1,0 +1,132 @@
+{
+  "/Users/carlos/proyectos/sinagregar/tailwind.config.js": {
+    "mtime": 1778341580.7354248,
+    "ast_hash": "701c5ec2fe308fa3f5b617d32da0857a",
+    "semantic_hash": "701c5ec2fe308fa3f5b617d32da0857a"
+  },
+  "/Users/carlos/proyectos/sinagregar/app.json": {
+    "mtime": 1779401572.1674125,
+    "ast_hash": "d4989adcf88f209170bae943e75cc410",
+    "semantic_hash": "d4989adcf88f209170bae943e75cc410"
+  },
+  "/Users/carlos/proyectos/sinagregar/prettier.config.js": {
+    "mtime": 1777887883.409285,
+    "ast_hash": "7103564e156522f05ba8c5e05017c2a9",
+    "semantic_hash": "7103564e156522f05ba8c5e05017c2a9"
+  },
+  "/Users/carlos/proyectos/sinagregar/nativewind-env.d.ts": {
+    "mtime": 1777887883.4061768,
+    "ast_hash": "cf9f3aa159ffdc363a88fc4d27dfc4fa",
+    "semantic_hash": "cf9f3aa159ffdc363a88fc4d27dfc4fa"
+  },
+  "/Users/carlos/proyectos/sinagregar/metro.config.js": {
+    "mtime": 1777887883.406006,
+    "ast_hash": "dcb5d6305afce631e9df229a6693f679",
+    "semantic_hash": "dcb5d6305afce631e9df229a6693f679"
+  },
+  "/Users/carlos/proyectos/sinagregar/babel.config.js": {
+    "mtime": 1777887883.4048343,
+    "ast_hash": "91e2a44aca486730f8ccd7e3391b1877",
+    "semantic_hash": "91e2a44aca486730f8ccd7e3391b1877"
+  },
+  "/Users/carlos/proyectos/sinagregar/package.json": {
+    "mtime": 1779401572.1726346,
+    "ast_hash": "fe866b02649b73d44437f13481fc0834",
+    "semantic_hash": "fe866b02649b73d44437f13481fc0834"
+  },
+  "/Users/carlos/proyectos/sinagregar/tsconfig.json": {
+    "mtime": 1777887883.410765,
+    "ast_hash": "1da7e36ff345b6d509782c37d82288fa",
+    "semantic_hash": "1da7e36ff345b6d509782c37d82288fa"
+  },
+  "/Users/carlos/proyectos/sinagregar/eslint.config.js": {
+    "mtime": 1777887883.4052014,
+    "ast_hash": "770ca308364a328621db7a5a954bd3f6",
+    "semantic_hash": "770ca308364a328621db7a5a954bd3f6"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/app/_layout.tsx": {
+    "mtime": 1779401442.6227734,
+    "ast_hash": "7907f7af47315583d738522b021f20bf",
+    "semantic_hash": "7907f7af47315583d738522b021f20bf"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/app/(tabs)/index.tsx": {
+    "mtime": 1778616004.52203,
+    "ast_hash": "efc33e714fd90a529cc38d925477b58d",
+    "semantic_hash": "efc33e714fd90a529cc38d925477b58d"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/app/(tabs)/templates.tsx": {
+    "mtime": 1778616004.523279,
+    "ast_hash": "b50a8ed9d14a6b2dc1f4bfc06f49a122",
+    "semantic_hash": "b50a8ed9d14a6b2dc1f4bfc06f49a122"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/app/(tabs)/record.tsx": {
+    "mtime": 1778616004.5227368,
+    "ast_hash": "e7d675de413d0b31ff99aff5b1366542",
+    "semantic_hash": "e7d675de413d0b31ff99aff5b1366542"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/app/(tabs)/campaigns.tsx": {
+    "mtime": 1778616004.5191677,
+    "ast_hash": "554bf4c6cb19f991312c1dd90addb306",
+    "semantic_hash": "554bf4c6cb19f991312c1dd90addb306"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/app/(tabs)/_layout.tsx": {
+    "mtime": 1778616004.5185678,
+    "ast_hash": "65dfc18176813eca0902205ae9661a39",
+    "semantic_hash": "65dfc18176813eca0902205ae9661a39"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/app/(tabs)/contacts.tsx": {
+    "mtime": 1779401572.1768,
+    "ast_hash": "cd703146832ddfc5913f76ccf9ef0290",
+    "semantic_hash": "cd703146832ddfc5913f76ccf9ef0290"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/utils/renderFilter.tsx": {
+    "mtime": 1779401572.182718,
+    "ast_hash": "2b7d7620d45164962e713536fb7eafa7",
+    "semantic_hash": "2b7d7620d45164962e713536fb7eafa7"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/utils/phone.utils.ts": {
+    "mtime": 1778341580.7312906,
+    "ast_hash": "1f6bc38ef534441ac85b559f8681af6b",
+    "semantic_hash": "1f6bc38ef534441ac85b559f8681af6b"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/utils/countries.utils.ts": {
+    "mtime": 1778341580.7288065,
+    "ast_hash": "3868a564a5a87ec3e3a9efc181b0c79a",
+    "semantic_hash": "3868a564a5a87ec3e3a9efc181b0c79a"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/styles/tw-form.ts": {
+    "mtime": 1779401572.1821828,
+    "ast_hash": "3bfe5a9c3eb89ea8fe64e76b2444e4f7",
+    "semantic_hash": "3bfe5a9c3eb89ea8fe64e76b2444e4f7"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/components/DateFilter.tsx": {
+    "mtime": 1779401572.1795268,
+    "ast_hash": "4f8b59f8f5b6b008dfb68ca534ed9cf4",
+    "semantic_hash": "4f8b59f8f5b6b008dfb68ca534ed9cf4"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/components/PhoneInput.tsx": {
+    "mtime": 1778341580.725986,
+    "ast_hash": "16bfa1a2291fa65b73f951960be5a685",
+    "semantic_hash": "16bfa1a2291fa65b73f951960be5a685"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/components/ContactCard.tsx": {
+    "mtime": 1779401572.178712,
+    "ast_hash": "d24e093798ea5d6ad23534f88c5627d5",
+    "semantic_hash": "d24e093798ea5d6ad23534f88c5627d5"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/components/FormMessage.tsx": {
+    "mtime": 1778341580.7247572,
+    "ast_hash": "25ba63f56117272f0cf4afdefc5078b4",
+    "semantic_hash": "25ba63f56117272f0cf4afdefc5078b4"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/components/SearchInput.tsx": {
+    "mtime": 1779401572.1815572,
+    "ast_hash": "e72b207963900b2f217ec91dae0bb955",
+    "semantic_hash": "e72b207963900b2f217ec91dae0bb955"
+  },
+  "/Users/carlos/proyectos/sinagregar/src/services/message.service.ts": {
+    "mtime": 1779401401.9687715,
+    "ast_hash": "828dfb4e0c72af86faff5fb2344a6872",
+    "semantic_hash": "828dfb4e0c72af86faff5fb2344a6872"
+  }
+}

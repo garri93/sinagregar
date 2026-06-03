@@ -1,8 +1,10 @@
-import { Platform, View, TextInput, Pressable, Text } from "react-native";
-import { useState } from "react";
+import { View, Text, Pressable } from 'react-native';
 import Entypo from '@expo/vector-icons/Entypo';
+import { useRouter } from 'expo-router';
 
 export default function ContactCard() {
+  const router = useRouter();
+
   return (
     <View className="flex-row justify-around border-b-2 bg-white p-5">
       <View>
@@ -13,15 +15,15 @@ export default function ContactCard() {
         <Text>65852541</Text>
       </View>
       <View className="flex-row">
-        <Text>
+        <Pressable onPress={() => router.push('/(contact)/ClientDetails')}>
           <Entypo name="eye" size={18} color="black" />
-        </Text>
-        <Text className="mr-1">
+        </Pressable>
+        <Pressable className="mr-1" onPress={() => router.push('/(contact)/EditClient')}>
           <Entypo name="edit" size={18} color="black" />
-        </Text>
-        <Text>
+        </Pressable>
+        <Pressable onPress={() => router.push('/(tabs)/')}>
           <Entypo name="message" size={18} color="black" />
-        </Text>
+        </Pressable>
       </View>
     </View>
   );

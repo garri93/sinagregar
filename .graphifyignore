@@ -1,0 +1,8 @@
+# Evita que indexe librerías o compilaciones pesadas
+node_modules/
+build/
+dist/
+.expo/
+*.png
+*.jpg
+*.svg

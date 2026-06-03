@@ -1,0 +1,265 @@
+{
+  "communities": {
+    "0": [
+      "app_json",
+      "sinagregar_app_experiments_tsconfigpaths",
+      "sinagregar_app_experiments_typedroutes",
+      "sinagregar_app_expo",
+      "sinagregar_app_expo_assetbundlepatterns",
+      "sinagregar_app_expo_experiments",
+      "sinagregar_app_expo_icon",
+      "sinagregar_app_expo_ios",
+      "sinagregar_app_expo_name",
+      "sinagregar_app_expo_orientation",
+      "sinagregar_app_expo_plugins",
+      "sinagregar_app_expo_scheme",
+      "sinagregar_app_expo_slug",
+      "sinagregar_app_expo_userinterfacestyle",
+      "sinagregar_app_expo_version",
+      "sinagregar_app_expo_web",
+      "sinagregar_app_ios_supportstablet",
+      "sinagregar_app_web_bundler",
+      "sinagregar_app_web_favicon"
+    ],
+    "1": [
+      "sinagregar_package_dependencies",
+      "sinagregar_package_dependencies_expo",
+      "sinagregar_package_dependencies_expo_checkbox",
+      "sinagregar_package_dependencies_expo_constants",
+      "sinagregar_package_dependencies_expo_linking",
+      "sinagregar_package_dependencies_expo_router",
+      "sinagregar_package_dependencies_expo_status_bar",
+      "sinagregar_package_dependencies_libphonenumber_js",
+      "sinagregar_package_dependencies_nativewind",
+      "sinagregar_package_dependencies_react",
+      "sinagregar_package_dependencies_react_dom",
+      "sinagregar_package_dependencies_react_native",
+      "sinagregar_package_dependencies_react_native_community_datetimepicker",
+      "sinagregar_package_dependencies_react_native_picker_picker",
+      "sinagregar_package_dependencies_react_native_reanimated",
+      "sinagregar_package_dependencies_react_native_safe_area_context",
+      "sinagregar_package_dependencies_react_native_screens",
+      "sinagregar_package_dependencies_react_native_worklets",
+      "sinagregar_package_dependencies_world_countries"
+    ],
+    "2": [
+      "package_json",
+      "sinagregar_package_main",
+      "sinagregar_package_name",
+      "sinagregar_package_private",
+      "sinagregar_package_scripts",
+      "sinagregar_package_scripts_android",
+      "sinagregar_package_scripts_format",
+      "sinagregar_package_scripts_ios",
+      "sinagregar_package_scripts_lint",
+      "sinagregar_package_scripts_prebuild",
+      "sinagregar_package_scripts_start",
+      "sinagregar_package_scripts_web",
+      "sinagregar_package_version"
+    ],
+    "3": [
+      "eslint_config_js",
+      "sinagregar_eslint_config_defineconfig",
+      "sinagregar_eslint_config_expoconfig",
+      "sinagregar_package_devdependencies",
+      "sinagregar_package_devdependencies_babel_core",
+      "sinagregar_package_devdependencies_eslint",
+      "sinagregar_package_devdependencies_eslint_config_prettier",
+      "sinagregar_package_devdependencies_prettier",
+      "sinagregar_package_devdependencies_prettier_plugin_tailwindcss",
+      "sinagregar_package_devdependencies_tailwindcss",
+      "sinagregar_package_devdependencies_types_react",
+      "sinagregar_package_devdependencies_typescript"
+    ],
+    "4": [
+      "components_phoneinput_phoneinput",
+      "services_message_service_platform",
+      "services_message_service_sendmessage",
+      "services_message_service_sendmessageparams",
+      "src_components_formmessage_tsx",
+      "src_components_phoneinput_tsx",
+      "src_services_message_service_ts",
+      "src_utils_countries_utils_ts",
+      "src_utils_phone_utils_ts",
+      "utils_countries_utils_countrylist",
+      "utils_phone_utils_getphoneexample",
+      "utils_phone_utils_validatephone"
+    ],
+    "5": [
+      "sinagregar_tsconfig_compileroptions",
+      "sinagregar_tsconfig_compileroptions_baseurl",
+      "sinagregar_tsconfig_compileroptions_paths",
+      "sinagregar_tsconfig_compileroptions_strict",
+      "sinagregar_tsconfig_extends",
+      "sinagregar_tsconfig_include",
+      "sinagregar_tsconfig_paths",
+      "tsconfig_json"
+    ],
+    "6": [
+      "sinagregar_app_adaptiveicon_foregroundimage",
+      "sinagregar_app_android_adaptiveicon",
+      "sinagregar_app_expo_android",
+      "sinagregar_app_expo_splash",
+      "sinagregar_app_splash_backgroundcolor",
+      "sinagregar_app_splash_image",
+      "sinagregar_app_splash_resizemode"
+    ],
+    "7": [
+      "components_searchinput_searchinput",
+      "src_components_datefilter_tsx",
+      "src_components_searchinput_tsx",
+      "src_styles_tw_form_ts",
+      "src_utils_renderfilter_tsx",
+      "styles_tw_form_twform",
+      "utils_renderfilter_renderfilter"
+    ],
+    "8": [
+      "metro_config_js",
+      "sinagregar_metro_config_config",
+      "sinagregar_metro_config_getdefaultconfig",
+      "sinagregar_metro_config_withnativewind"
+    ],
+    "9": [
+      "src_app_tabs_contacts_tsx",
+      "src_components_contactcard_tsx",
+      "tabs_contacts_contacts"
+    ],
+    "10": [
+      "app_layout_layout",
+      "src_app_layout_tsx"
+    ],
+    "11": [
+      "babel_config_js",
+      "sinagregar_babel_config_plugins"
+    ],
+    "12": [
+      "src_app_tabs_index_tsx",
+      "tabs_index_index"
+    ],
+    "13": [
+      "src_app_tabs_record_tsx",
+      "tabs_record_record"
+    ],
+    "14": [
+      "src_app_tabs_layout_tsx",
+      "tabs_layout_layout"
+    ],
+    "15": [
+      "tailwind_config_js"
+    ],
+    "16": [
+      "prettier_config_js"
+    ],
+    "17": [
+      "nativewind_env_d_ts"
+    ],
+    "18": [
+      "tabs_templates_templates"
+    ],
+    "19": [
+      "tabs_campaigns_campaigns"
+    ]
+  },
+  "cohesion": {
+    "0": 0.10526315789473684,
+    "1": 0.10526315789473684,
+    "2": 0.15384615384615385,
+    "3": 0.16666666666666666,
+    "4": 0.25757575757575757,
+    "5": 0.25,
+    "6": 0.2857142857142857,
+    "7": 0.47619047619047616,
+    "8": 0.5,
+    "9": 0.6666666666666666,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0
+  },
+  "gods": [
+    {
+      "id": "sinagregar_app_expo",
+      "label": "expo",
+      "degree": 15
+    },
+    {
+      "id": "sinagregar_package_scripts",
+      "label": "scripts",
+      "degree": 8
+    },
+    {
+      "id": "sinagregar_app_expo_splash",
+      "label": "splash",
+      "degree": 4
+    },
+    {
+      "id": "sinagregar_tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 4
+    },
+    {
+      "id": "services_message_service_sendmessage",
+      "label": "SendMessage()",
+      "degree": 4
+    },
+    {
+      "id": "sinagregar_app_expo_web",
+      "label": "web",
+      "degree": 3
+    },
+    {
+      "id": "sinagregar_app_expo_experiments",
+      "label": "experiments",
+      "degree": 3
+    },
+    {
+      "id": "sinagregar_app_android_adaptiveicon",
+      "label": "adaptiveIcon",
+      "degree": 3
+    },
+    {
+      "id": "utils_phone_utils_validatephone",
+      "label": "ValidatePhone()",
+      "degree": 3
+    },
+    {
+      "id": "utils_phone_utils_getphoneexample",
+      "label": "GetPhoneExample()",
+      "degree": 3
+    }
+  ],
+  "surprises": [
+    {
+      "source": "SendMessage()",
+      "target": "ValidatePhone()",
+      "source_files": [
+        "src/services/message.service.ts",
+        "src/utils/phone.utils.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "cross-file semantic connection"
+    },
+    {
+      "source": "SendMessage()",
+      "target": "GetPhoneExample()",
+      "source_files": [
+        "src/services/message.service.ts",
+        "src/utils/phone.utils.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "cross-file semantic connection"
+    }
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
